@@ -1,80 +1,108 @@
-PROPRIETARY AND CONFIDENTIAL SOFTWARE LICENSE
+PROPRIETARY AND CONFIDENTIAL
 
 Copyright (c) 2026 BigManCheese / SynaptaHub
 All Rights Reserved.
 
-This repository and its contents, including all source code, compiled 
-scripts, obfuscated code, binaries, assets, interfaces, and related 
-documentation (collectively, the "Software"), are the exclusive 
-property of the copyright holder ("Licensor"). The Software is made 
-available for viewing/limited use only under the terms below and is 
-NOT open source.
+This license applies to all scripts, modules, and files contained 
+within this repository, including all source code, compiled bytecode, 
+obfuscated code, loaders, interfaces, and related documentation 
+(collectively, the "Script"), and is the exclusive property of the 
+copyright holder ("Licensor"). The Script is not open source and is 
+provided under limited license only.
 
-1. GRANT OF LICENSE
-Subject to compliance with this Agreement, Licensor grants you a 
-limited, non-exclusive, non-transferable, revocable license to 
-execute the Software solely through official channels explicitly 
-authorized by Licensor (e.g. official releases, marketplace listings, 
-or distribution points designated by Licensor). No other rights are 
-granted, and all rights not expressly granted are reserved.
+By accessing, downloading, or executing any file in this repository, 
+you agree to the following terms:
 
-2. RESTRICTIONS
-Except as expressly permitted by applicable law notwithstanding this 
-restriction, you may NOT:
-  a. Copy, reproduce, or redistribute the Software in whole or in part.
-  b. Reverse engineer, decompile, deobfuscate, or disassemble the 
-     Software.
-  c. Modify, tamper with, or attempt to bypass any authentication, 
-     licensing, or key-verification mechanism.
-  d. Create derivative works based on the Software.
-  e. Distribute, host, sublicense, sell, rent, or otherwise make the 
-     Software (or any modified, "cracked," or bypassed version) 
-     available to any third party.
-  f. Use the Software for any commercial purpose without a separate 
-     written agreement with Licensor.
-  g. Remove or alter any copyright, trademark, or proprietary notices.
+1. LICENSE GRANT
+Licensor grants you a limited, non-exclusive, non-transferable, 
+revocable license to execute the Script solely through official 
+channels explicitly authorized by Licensor. No other rights are 
+granted, and all rights not expressly stated here are reserved.
 
-3. AUTHORIZED SOURCES
-The Software may only be obtained and used through channels explicitly 
-designated by Licensor. Any copy, key, or key-generation method 
-obtained from an unauthorized third party is not licensed and its use 
-is strictly prohibited.
+2. STRICT RESTRICTIONS
+You are expressly prohibited from:
+  a. Reverse engineering, decompiling, deobfuscating, or disassembling 
+     any part of the Script.
+  b. Cracking, bypassing, or attempting to bypass any authentication, 
+     key system, whitelist, or licensing mechanism.
+  c. Stealing, copying, extracting, or repurposing any part of the 
+     Script's source code, logic, or bytecode for use in another 
+     project.
+  d. Claiming authorship of, or taking credit for, the Script or any 
+     part of it.
+  e. Creating derivative works based on the Script.
+  f. Using, distributing, or promoting any cracked, leaked, or bypassed 
+     version of the Script.
+  g. Injecting, hooking, or otherwise interfering with the Script's 
+     runtime execution to circumvent its intended behavior.
 
-4. OWNERSHIP
-No title to or ownership of the Software is transferred to you under 
-this Agreement. All intellectual property rights remain with Licensor.
+3. GAME MODULES ARE STRICTLY PRIVATE
+The core game modules, systems, and any files not explicitly 
+designated as a "loader" by Licensor are strictly confidential. You 
+may NOT distribute, host, share, upload, or repost these files or 
+their contents, in original or modified form, under any circumstances.
 
-5. TERM AND TERMINATION
-This license is effective until terminated. It terminates automatically 
-and immediately, without notice, upon any breach of these terms. Upon 
-termination, you must cease all use of the Software and destroy all 
-copies in your possession.
+4. LOADER SCRIPT — LIMITED PERMISSION
+Unlike the game modules, the loader script(s) explicitly labeled as 
+such by Licensor MAY be shared, reposted, or redistributed, provided 
+that:
+  a. The loader is shared unmodified, in its original form;
+  b. Credit is given to the original copyright holder 
+     (BigManCheese / SynaptaHub);
+  c. It is not bundled, packaged, or combined with any cracked, 
+     modified, or unauthorized version of the game modules it loads.
+This permission applies only to the loader and does not extend to any 
+other file in this repository.
 
-6. ENFORCEMENT
-Licensor reserves the right to pursue all available legal remedies for 
-violations of this Agreement, including but not limited to injunctive 
-relief and damages, and to issue DMCA takedown notices or equivalent 
-requests to any platform (including but not limited to GitHub, Discord, 
-and YouTube) hosting unauthorized, modified, or circumvented copies of 
-the Software.
+5. AUTHORIZED USE
+The Script may only be obtained, executed, and used through official 
+channels explicitly authorized by Licensor. Any copy of the Script, or 
+any key/whitelist bypass method, obtained from unauthorized third 
+parties is not licensed, and its use is strictly prohibited.
 
-7. DISCLAIMER OF WARRANTY
-THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+EXCEPTION — LOADER SCRIPT: The loader script(s) explicitly designated 
+as such by Licensor may be obtained from a third-party source (e.g. a 
+repost or share permitted under Section 4), provided it is unmodified 
+and unaltered from its original released form. This exception applies 
+solely to the loader and does not extend to any game module, system, 
+or any other file in this repository — those may only be obtained 
+through official channels, regardless of source.
+
+6. OWNERSHIP
+No title to or ownership of the Script is transferred to you. All 
+intellectual property rights remain with Licensor at all times.
+
+7. ENFORCEMENT & TERMINATION
+Any violation of these terms results in immediate, automatic 
+termination of your license to use the Script. Licensor reserves the 
+right to:
+  a. Pursue any and all available legal remedies, including injunctive 
+     relief and damages, against any individual or entity that 
+     violates this license;
+  b. Issue DMCA (Digital Millennium Copyright Act) takedown notices or 
+     equivalent requests to any platform (including but not limited to 
+     GitHub, Discord, Roblox, and YouTube) hosting unauthorized, 
+     leaked, cracked, or modified copies of the Script;
+  c. Demand immediate removal of infringing content and pursue further 
+     action if the infringing party fails to comply.
+
+8. DISCLAIMER OF WARRANTY
+THE SCRIPT IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS 
 OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND 
 NON-INFRINGEMENT.
 
-8. LIMITATION OF LIABILITY
+9. LIMITATION OF LIABILITY
 IN NO EVENT SHALL LICENSOR OR ITS AUTHORS BE LIABLE FOR ANY CLAIM, 
-DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR 
-OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR 
-THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION 
+WITH THE SCRIPT OR THE USE OR OTHER DEALINGS IN THE SCRIPT, INCLUDING 
+ANY IN-GAME LOSSES, ACCOUNT ACTIONS, OR MODERATION OUTCOMES RESULTING 
+FROM ITS USE.
 
-9. GOVERNING LAW
-This Agreement shall be governed by the laws of [your jurisdiction — 
-e.g. "the Province of Ontario, Canada"], without regard to its conflict 
-of law provisions.
+10. GOVERNING LAW
+This Agreement shall be governed by the laws of [your jurisdiction], 
+without regard to its conflict of law provisions.
 
-10. SEVERABILITY
-If any provision of this Agreement is held unenforceable, the remaining 
-provisions will continue in full force and effect.
+11. SEVERABILITY
+If any provision of this Agreement is held unenforceable, the 
+remaining provisions will continue in full force and effect.
