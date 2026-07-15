@@ -1,0 +1,22 @@
+PROPRIETARY AND CONFIDENTIAL
+Copyright (c) 2026 [BigManCheese / SynaptaHub]
+All Rights Reserved.
+
+This software, including all compiled scripts, obfuscated code, interfaces, and related documentation (the "Software"), is the exclusive property of the copyright holder.
+
+By accessing or executing the Software, you agree to the following terms:
+
+1. STRICT RESTRICTIONS
+You are expressly prohibited from:
+- Reverse engineering, decompiling, deobfuscating, or disassembling the Software.
+- Modifying, tampering with, or attempting to bypass any authentication, key system, or licensing mechanisms.
+- Creating derivative works based on the Software.
+- Distributing, hosting, sharing, or reselling the Software, including any altered, "cracked," or bypassed versions.
+
+2. AUTHORIZED USE
+The Software may only be obtained, executed, and utilized through official channels explicitly authorized by the copyright holder. Any copy of the Software, or key-generation method, obtained from unauthorized third parties is strictly prohibited.
+
+3. ENFORCEMENT & TERMINATION
+Any violation of these terms will result in immediate termination of your access to the Software. The copyright holder reserves the right to issue DMCA (Digital Millennium Copyright Act) takedown notices to any platform (including GitHub, Discord, and YouTube) hosting unauthorized, modified, or bypassed versions of this Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
