@@ -7,8 +7,9 @@ This license applies to all scripts, modules, and files contained
 within this repository, including all source code, compiled bytecode, 
 obfuscated code, loaders, interfaces, and related documentation 
 (collectively, the "Script"), and is the exclusive property of the 
-copyright holder ("Licensor"). The Script is not open source and is 
-provided under limited license only.
+copyright holder ("Licensor"), EXCEPT for any third-party components 
+or provider technology identified in Sections 7 and 8. The Script is 
+not open source and is provided under limited license only.
 
 By accessing, downloading, or executing any file in this repository, 
 you agree to the following terms:
@@ -50,7 +51,10 @@ that:
   b. Credit is given to the original copyright holder 
      (BigManCheese / SynaptaHub);
   c. It is not bundled, packaged, or combined with any cracked, 
-     modified, or unauthorized version of the game modules it loads.
+     modified, or unauthorized version of the game modules it loads;
+  d. Sharing does not violate the terms of service of any third-party 
+     key system or obfuscation provider used in the loader's 
+     protection (see Section 8).
 This permission applies only to the loader and does not extend to any 
 other file in this repository.
 
@@ -70,9 +74,40 @@ through official channels, regardless of source.
 
 6. OWNERSHIP
 No title to or ownership of the Script is transferred to you. All 
-intellectual property rights remain with Licensor at all times.
+intellectual property rights remain with Licensor at all times, except 
+as set out in Section 7 regarding third-party open-source components 
+and Section 8 regarding third-party provider technology.
 
-7. ENFORCEMENT & TERMINATION
+7. THIRD-PARTY COMPONENTS
+Portions of the Script may incorporate or depend upon third-party 
+open-source components, libraries, or modules (each a "Third-Party 
+Component"), which remain governed by their own respective licenses 
+(e.g. MIT, GPL, Apache) and are NOT claimed as the exclusive property 
+of Licensor. Nothing in this Agreement is intended to restrict rights 
+granted to you under the license of any such Third-Party Component, or 
+to impose additional restrictions beyond what that license permits. 
+Where a conflict exists between this Agreement and a Third-Party 
+Component's license as applied to that component specifically, the 
+Third-Party Component's own license governs solely with respect to 
+that component. Any Third-Party Components used are credited, where 
+required, in the repository's documentation or accompanying notices.
+
+8. KEY SYSTEM AND OBFUSCATION PROVIDER
+The Script's loader incorporates key system and/or obfuscation 
+technology provided by a third-party service ("Provider"), which is 
+separately licensed to Licensor and remains the property of the 
+Provider. Nothing in this Agreement grants you any right to access, 
+extract, reverse engineer, bypass, or interfere with the Provider's 
+key system or obfuscation layer, independent of and in addition to the 
+restrictions in Section 2. Any permission granted under Section 4 to 
+share the loader is limited by, and does not override, the Provider's 
+own terms of service governing distribution or use of obfuscated 
+output. If a conflict arises between this Agreement and the Provider's 
+terms, Licensor reserves the right to restrict or revoke the Section 4 
+loader-sharing permission at any time to remain compliant with the 
+Provider's terms.
+
+9. ENFORCEMENT & TERMINATION
 Any violation of these terms results in immediate, automatic 
 termination of your license to use the Script. Licensor reserves the 
 right to:
@@ -86,23 +121,23 @@ right to:
   c. Demand immediate removal of infringing content and pursue further 
      action if the infringing party fails to comply.
 
-8. DISCLAIMER OF WARRANTY
+10. DISCLAIMER OF WARRANTY
 THE SCRIPT IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS 
 OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND 
 NON-INFRINGEMENT.
 
-9. LIMITATION OF LIABILITY
+11. LIMITATION OF LIABILITY
 IN NO EVENT SHALL LICENSOR OR ITS AUTHORS BE LIABLE FOR ANY CLAIM, 
 DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION 
 WITH THE SCRIPT OR THE USE OR OTHER DEALINGS IN THE SCRIPT, INCLUDING 
 ANY IN-GAME LOSSES, ACCOUNT ACTIONS, OR MODERATION OUTCOMES RESULTING 
 FROM ITS USE.
 
-10. GOVERNING LAW
-This Agreement shall be governed by the laws of [your jurisdiction], 
-without regard to its conflict of law provisions.
+12. GOVERNING LAW
+This Agreement shall be governed by the laws of the Province of 
+Ontario, Canada, without regard to its conflict of law provisions.
 
-11. SEVERABILITY
+13. SEVERABILITY
 If any provision of this Agreement is held unenforceable, the 
 remaining provisions will continue in full force and effect.
