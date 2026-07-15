@@ -1,22 +1,80 @@
-PROPRIETARY AND CONFIDENTIAL
-Copyright (c) 2026 [BigManCheese / SynaptaHub]
+PROPRIETARY AND CONFIDENTIAL SOFTWARE LICENSE
+
+Copyright (c) 2026 BigManCheese / SynaptaHub
 All Rights Reserved.
 
-This software, including all compiled scripts, obfuscated code, interfaces, and related documentation (the "Software"), is the exclusive property of the copyright holder.
+This repository and its contents, including all source code, compiled 
+scripts, obfuscated code, binaries, assets, interfaces, and related 
+documentation (collectively, the "Software"), are the exclusive 
+property of the copyright holder ("Licensor"). The Software is made 
+available for viewing/limited use only under the terms below and is 
+NOT open source.
 
-By accessing or executing the Software, you agree to the following terms:
+1. GRANT OF LICENSE
+Subject to compliance with this Agreement, Licensor grants you a 
+limited, non-exclusive, non-transferable, revocable license to 
+execute the Software solely through official channels explicitly 
+authorized by Licensor (e.g. official releases, marketplace listings, 
+or distribution points designated by Licensor). No other rights are 
+granted, and all rights not expressly granted are reserved.
 
-1. STRICT RESTRICTIONS
-You are expressly prohibited from:
-- Reverse engineering, decompiling, deobfuscating, or disassembling the Software.
-- Modifying, tampering with, or attempting to bypass any authentication, key system, or licensing mechanisms.
-- Creating derivative works based on the Software.
-- Distributing, hosting, sharing, or reselling the Software, including any altered, "cracked," or bypassed versions.
+2. RESTRICTIONS
+Except as expressly permitted by applicable law notwithstanding this 
+restriction, you may NOT:
+  a. Copy, reproduce, or redistribute the Software in whole or in part.
+  b. Reverse engineer, decompile, deobfuscate, or disassemble the 
+     Software.
+  c. Modify, tamper with, or attempt to bypass any authentication, 
+     licensing, or key-verification mechanism.
+  d. Create derivative works based on the Software.
+  e. Distribute, host, sublicense, sell, rent, or otherwise make the 
+     Software (or any modified, "cracked," or bypassed version) 
+     available to any third party.
+  f. Use the Software for any commercial purpose without a separate 
+     written agreement with Licensor.
+  g. Remove or alter any copyright, trademark, or proprietary notices.
 
-2. AUTHORIZED USE
-The Software may only be obtained, executed, and utilized through official channels explicitly authorized by the copyright holder. Any copy of the Software, or key-generation method, obtained from unauthorized third parties is strictly prohibited.
+3. AUTHORIZED SOURCES
+The Software may only be obtained and used through channels explicitly 
+designated by Licensor. Any copy, key, or key-generation method 
+obtained from an unauthorized third party is not licensed and its use 
+is strictly prohibited.
 
-3. ENFORCEMENT & TERMINATION
-Any violation of these terms will result in immediate termination of your access to the Software. The copyright holder reserves the right to issue DMCA (Digital Millennium Copyright Act) takedown notices to any platform (including GitHub, Discord, and YouTube) hosting unauthorized, modified, or bypassed versions of this Software.
+4. OWNERSHIP
+No title to or ownership of the Software is transferred to you under 
+this Agreement. All intellectual property rights remain with Licensor.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+5. TERM AND TERMINATION
+This license is effective until terminated. It terminates automatically 
+and immediately, without notice, upon any breach of these terms. Upon 
+termination, you must cease all use of the Software and destroy all 
+copies in your possession.
+
+6. ENFORCEMENT
+Licensor reserves the right to pursue all available legal remedies for 
+violations of this Agreement, including but not limited to injunctive 
+relief and damages, and to issue DMCA takedown notices or equivalent 
+requests to any platform (including but not limited to GitHub, Discord, 
+and YouTube) hosting unauthorized, modified, or circumvented copies of 
+the Software.
+
+7. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND 
+NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+IN NO EVENT SHALL LICENSOR OR ITS AUTHORS BE LIABLE FOR ANY CLAIM, 
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR 
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR 
+THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+9. GOVERNING LAW
+This Agreement shall be governed by the laws of [your jurisdiction — 
+e.g. "the Province of Ontario, Canada"], without regard to its conflict 
+of law provisions.
+
+10. SEVERABILITY
+If any provision of this Agreement is held unenforceable, the remaining 
+provisions will continue in full force and effect.
